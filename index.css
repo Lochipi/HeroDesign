@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background: url('dawn.jpg');
+    background: url('images/dawn.jpg');
     background-size: cover;
     background-position: left;
     color: black;
